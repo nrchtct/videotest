@@ -16,7 +16,7 @@
 
 4. Link to video file directly:
 
-`https://github.com/username/repo/raw/branch/video.mp4`
+`https://media.githubusercontent.com/media/username/repo/branch/path/to/video.mp4`
 
 ## See example: https://nrchtct.github.io/videotest/
 
